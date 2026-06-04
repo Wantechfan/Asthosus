@@ -1,4 +1,5 @@
-#Disabled due to causing compatability issues in v8
+//Disabled due to causing compatability issues in v8
+//Fuck it I don't fucking care I want main.js
 
 const asthosus = Vars.mods.locateMod("asthosus").meta;
 
